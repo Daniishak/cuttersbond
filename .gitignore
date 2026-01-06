@@ -1,0 +1,14 @@
+# .NET build outputs (alla nivåer)
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Node
+node_modules/
+dist/
+**/node_modules/
+**/dist/
+
+# Env
+.env
